@@ -1,18 +1,9 @@
 ### 👋 Hi there, I'm [Thinh Duy](https://github.com/thinhotwp1), lucky developer from Vietnam 🕵️
 
-**My Research Interest**:
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
-
  **I am open to**:
 
-- any collaboration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become a reviewer or PC member for Machine Learning/Data mining journals or conferences.
+- any collaboration Java EE work, hours or milestone
+- machine learning projects(development or research), 
 
 
 ## My favorite tools and technologies ⚙️
@@ -169,9 +160,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning Java ...
+- 👯 I’m looking to collaborate hours or milestone ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
