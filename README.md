@@ -2,8 +2,8 @@
 
  **I am open to**:
 
-- any collaboration Java EE work, hours or milestone
-- machine learning projects(development or research), 
+- Any collaboration Java EE work, hours or milestone
+- Machine learning projects(development or research), 
 
 
 ## My favorite tools and technologies ⚙️
