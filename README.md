@@ -133,6 +133,13 @@
  </tr>
 </table>
 
+## Why Work With Me?
+<p align = "center"
+<p> ✔ Strong Java & Spring Boot expertise – Proven track record in backend development.</p>
+<p> ✔ Industry-standard coding – Writing optimized and scalable code.</p>
+<p> ✔ Reliable & Easy to Work With – I keep communication clear and the process smooth.</p>
+</p>
+
 ## Connect with me:
 
 <p align = "center">
