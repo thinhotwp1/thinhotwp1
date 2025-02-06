@@ -5,15 +5,6 @@
 - Any collaboration Java EE work, hours or milestone
 - Machine learning projects(development or research), 
 
-
-## Connect with me:
-
-<p align = "center">
-<p>Gmail: thinhld0019@gmail.com</p>
-<p>Linked: www.linkedin.com/in/jame-lee-only-java </p>
-<p>Freelancer: https://www.freelancer.com/u/ThinhSenDev </p>
-</p>
-
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
@@ -142,6 +133,13 @@
  </tr>
 </table>
 
+## Connect with me:
+
+<p align = "center">
+<p>Gmail: thinhld0019@gmail.com</p>
+<p>Linked: www.linkedin.com/in/jame-lee-only-java </p>
+<p>Freelancer: https://www.freelancer.com/u/ThinhSenDev </p>
+</p>
 
 <!-- 
 ----
