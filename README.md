@@ -138,7 +138,11 @@
 
 <p align = "center">
 <p>Gmail: thinhld0019@gmail.com</p>
-<p>Phone: 0923001270</p>
+<p>Linked: [jame-lee-only-java]([www.linkedin.com/in/jame-lee-only-java])</p>
+Vanity URL name
+
+<p>Freelancer: [ThinhSenDev]([https://www.freelancer.com/u/ThinhSenDev])</p>
+
 </p>
 
 <!-- 
