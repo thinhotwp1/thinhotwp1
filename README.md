@@ -1,10 +1,18 @@
-### 👋 Hi there, I'm [Thinh Duy](https://github.com/thinhotwp1), lucky developer from Vietnam 🕵️
+### 👋 Hi there, I'm [Thinh Duy](www.linkedin.com/in/jame-lee-only-java), Senior Java Developer from Vietnam 🕵️
 
  **I am open to**:
 
 - Any collaboration Java EE work, hours or milestone
 - Machine learning projects(development or research), 
 
+
+## Connect with me:
+
+<p align = "center">
+<p>Gmail: thinhld0019@gmail.com</p>
+<p>Linked: www.linkedin.com/in/jame-lee-only-java </p>
+<p>Freelancer: https://www.freelancer.com/u/ThinhSenDev </p>
+</p>
 
 ## My favorite tools and technologies ⚙️
 
@@ -134,16 +142,6 @@
  </tr>
 </table>
 
-## Connect with me:
-
-<p align = "center">
-<p>Gmail: thinhld0019@gmail.com</p>
-<p>Linked: [jame-lee-only-java]([www.linkedin.com/in/jame-lee-only-java])</p>
-Vanity URL name
-
-<p>Freelancer: [ThinhSenDev]([https://www.freelancer.com/u/ThinhSenDev])</p>
-
-</p>
 
 <!-- 
 ----
