@@ -134,15 +134,14 @@
 </table>
 
 ## Why Work With Me?
-<p align = "center"
+
 <p> ✔ Strong Java & Spring Boot expertise – Proven track record in backend development.</p>
 <p> ✔ Industry-standard coding – Writing optimized and scalable code.</p>
 <p> ✔ Reliable & Easy to Work With – I keep communication clear and the process smooth.</p>
 </p>
 
-## Connect with me:
+## Connect with me !
 
-<p align = "center">
 <p>Gmail: thinhld0019@gmail.com</p>
 <p>Linked: www.linkedin.com/in/jame-lee-only-java </p>
 <p>Freelancer: https://www.freelancer.com/u/ThinhSenDev </p>
