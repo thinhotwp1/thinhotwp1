@@ -144,6 +144,7 @@
 <p>Gmail: thinhld0019@gmail.com</p>
 <p>Linked: www.linkedin.com/in/jame-lee-only-java </p>
 <p>Freelancer: https://www.freelancer.com/u/ThinhSenDev </p>
+<p>WhatsApp: 84923001270 </p>
 </p>
 
 <!-- 
