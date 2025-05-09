@@ -2,7 +2,7 @@
 
  **I am open to**:
 
-- Any collaboration Java Enterprise work, hours or milestone
+- Any collaboration Enterprise work using Java, hours or milestone
 
 ## My favorite tools and technologies ⚙️
 
