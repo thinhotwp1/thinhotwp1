@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm [Jame Lee](www.linkedin.com/in/jame-lee-only-java), Senior Java Developer from Vietnam 🕵️
+### 👋 Hi there, I'm [Jame Lee](https://www.freelancer.com/u/ThinhSenDev), Senior Java Developer from Vietnam 🕵️
 
  **I am open to**:
 
